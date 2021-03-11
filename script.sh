@@ -1,8 +1,10 @@
 cal
 
-echo
+echo "Sleeping for 10 sec"
+sleep 10
 
-echo
+echo "sleeping for 10 sec again"
+sleep 10
 
 date
 
